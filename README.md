@@ -12,6 +12,6 @@ The Sales Manager of a fictituous chocolate company has requested for a dashboar
 
 ## Dashbaord Development
 
-<img src="https://github.com/user-attachments/assets/ddf8d895-1ec1-46db-b6c4-c5f848dabc20 style="width:50%; height:auto;">
+<img src="https://github.com/user-attachments/assets/ddf8d895-1ec1-46db-b6c4-c5f848dabc20" style="width:50%; height:auto;">
 
-The dashboard can be viewed 
+The dashboard can be viewed [Here](Chocolate Company Dashboard.pbix)
