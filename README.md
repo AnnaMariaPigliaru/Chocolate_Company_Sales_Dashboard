@@ -4,4 +4,4 @@
 ## Project Background
 The Sales Manager of a fictituous chocolate company has requested for a dashboard which offers users the opportunity to:
 
-- Track monthly sales revenue, profit, cost  for year 2023
+- Track monthly sales revenue, profit and total cost for year 2023
